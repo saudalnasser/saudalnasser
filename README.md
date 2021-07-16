@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAUDPA
-- 👀 I’m interested in back-end development.
-- 🌱 I’m currently learning entity framework.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning Asp.net MVC.
 - 📫 How to reach me saudalnasserpa@gmail.com
 
 <!---
