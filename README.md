@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SAUD-ALNASSER
+- 👋 Hi, I’m @saudalnasser
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning python and machine learning.
+- 🌱 I’m currently learning django and docker.
 - 📫 How to reach me saudalnasserpa@gmail.com
 
 <!---
