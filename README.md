@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saudalnasser
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning django and docker.
-- 📫 How to reach me saudalnasserpa@gmail.com
+- 📫 How to reach me saudalnasserpa@outlook.com
 
 <!---
 SAUDPA/SAUDPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
