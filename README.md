@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saudalnasser
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning django and docker.
+- 🌱 I’m currently learning docker and react.
 - 📫 How to reach me saudalnasserpa@outlook.com
 
 <!---
