@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saudalnasser
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning html & css.
+- 🌱 I’m currently learning angular.
 - 📫 How to reach me saud4services@gmail.com
 
 <!---
