@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saudalnasser
-- 👀 I’m interested in web and mobile development.
-- 🌱 I’m currently learning angular and ionic.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning angular and firebase.
 - 📫 How to reach me saud4services@gmail.com
 
 <!---
